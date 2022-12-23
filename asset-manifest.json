@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Registration-Login-with-Firebase/static/css/main.e6c13ad2.css",
+    "main.js": "/Registration-Login-with-Firebase/static/js/main.49c2f7c1.js",
+    "index.html": "/Registration-Login-with-Firebase/index.html",
+    "main.e6c13ad2.css.map": "/Registration-Login-with-Firebase/static/css/main.e6c13ad2.css.map",
+    "main.49c2f7c1.js.map": "/Registration-Login-with-Firebase/static/js/main.49c2f7c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.49c2f7c1.js"
+  ]
+}
